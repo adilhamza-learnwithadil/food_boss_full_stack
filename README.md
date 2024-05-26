@@ -1,2 +1,14 @@
-# food_boss_full_stack
-This Is A Full Stack Project for A Restaurant
+# Full Stack Proect
+## Food Boss
+
+Some Best Futers Of This Website :
+- 
+-
+
+
+Client Side Github : https://github.com/adilhamza-learnwithadil/food_boss_client_side
+Server Side Github : https://github.com/adilhamza-learnwithadil/food_boss_server_side
+
+Live Link : 
+Server Link : 
+
